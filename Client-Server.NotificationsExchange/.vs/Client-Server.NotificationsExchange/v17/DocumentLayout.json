@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FFCFA-4AD2-4ADB-AA54-956B5DF0AA5E}|..\\Client\\Client.csproj|c:\\all\\client-server signalr\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FFCFA-4AD2-4ADB-AA54-956B5DF0AA5E}|..\\Client\\Client.csproj|c:\\all\\client-server signalr\\client\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF7D174-1A39-4AFD-85C2-5988341ACBC9}|WebAPI\\WebAPI.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF7D174-1A39-4AFD-85C2-5988341ACBC9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3FFCFA-4AD2-4ADB-AA54-956B5DF0AA5E}|..\\Client\\Client.csproj|c:\\all\\client-server signalr\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\notifications\\queries\\getnotification\\getnotificationsdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\notifications\\queries\\getnotification\\getnotificationsdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\persistance\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|solutionrelative:persistance\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\notifications\\queries\\getnotification\\notificationdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\notifications\\queries\\getnotification\\notificationdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\persistance\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|solutionrelative:persistance\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\interfaces\\inotificationsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\interfaces\\inotificationsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\notifications\\queries\\getnotification\\getnotificationsdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\notifications\\queries\\getnotification\\getnotificationsdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\persistance\\notificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|solutionrelative:persistance\\notificationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|solutionrelative:persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\imapwith.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\assemblymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFADF8B-5A16-48CD-9A9E-8C8AB3FCDCA0}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A658D7-F6A5-4491-BC47-F2EA4C118BF3}|Domain\\Domain.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A658D7-F6A5-4491-BC47-F2EA4C118BF3}|Domain\\Domain.csproj|solutionrelative:domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C06A3294-E8CC-4DA4-9C1E-4AB416D87FE4}|Persistance\\Persistance.csproj|solutionrelative:persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A658D7-F6A5-4491-BC47-F2EA4C118BF3}|Domain\\Domain.csproj|C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1A658D7-F6A5-4491-BC47-F2EA4C118BF3}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8954E70-CC0F-40CD-BA94-8B7040CE9FD8}|..\\Server\\Server.csproj|c:\\all\\client-server signalr\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Program.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client\\Program.cs",
+              "RelativeToolTip": "..\\Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:44:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Startup.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\Startup.cs",
+              "RelativeToolTip": "..\\Server\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAE0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:55:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Persistance\\DependencyInjection.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\DependencyInjection.cs",
+              "RelativeToolTip": "Persistance\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:40:59.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INotificationsDbContext.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Interfaces\\INotificationsDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\INotificationsDbContext.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Interfaces\\INotificationsDbContext.cs",
+              "RelativeToolTip": "Application\\Interfaces\\INotificationsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:14:58.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Startup.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client\\Startup.cs",
+              "RelativeToolTip": "..\\Client\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:54:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:21:35.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Program.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\Program.cs",
+              "RelativeToolTip": "..\\Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:02:10.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "..\\Server\\NotificationHub.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\NotificationHub.cs",
+              "RelativeToolTip": "..\\Server\\NotificationHub.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:01:42.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "..\\Client\\Client.csproj",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client\\Client.csproj",
+              "RelativeToolTip": "..\\Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T14:29:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:54:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "..\\Server\\Server.csproj",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\Server.csproj",
+              "RelativeToolTip": "..\\Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T13:13:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetNotificationsDetailsQueryHandler.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQueryHandler.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:19:23.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationDetailsVM.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\NotificationDetailsVM.cs",
+              "RelativeDocumentMoniker": "Application\\Notifications\\Queries\\GetNotification\\NotificationDetailsVM.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\NotificationDetailsVM.cs",
+              "RelativeToolTip": "Application\\Notifications\\Queries\\GetNotification\\NotificationDetailsVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:58:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationDbContext.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\NotificationDbContext.cs",
+              "RelativeDocumentMoniker": "Persistance\\NotificationDbContext.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\NotificationDbContext.cs",
+              "RelativeToolTip": "Persistance\\NotificationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:30:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetNotificationsDetailsQuery.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQuery.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQuery.cs",
+              "RelativeToolTip": "Application\\Notifications\\Queries\\GetNotification\\GetNotificationsDetailsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:49:47.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationConfig.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\NotificationConfig.cs",
+              "RelativeDocumentMoniker": "Persistance\\NotificationConfig.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\NotificationConfig.cs",
+              "RelativeToolTip": "Persistance\\NotificationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:35:49.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Persistance\\DbInitializer.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\DbInitializer.cs",
+              "RelativeToolTip": "Persistance\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:30:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T07:31:42.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMapWith.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\IMapWith.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Mappings\\IMapWith.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\IMapWith.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:02:04.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyMappingProfile.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\AssemblyMappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:03:04.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:24:51.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Domain\\Notification.cs",
+              "RelativeDocumentMoniker": "Domain\\Notification.cs",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Domain\\Notification.cs",
+              "RelativeToolTip": "Domain\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:37:45.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Persistance.csproj",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\Persistance.csproj",
+              "RelativeDocumentMoniker": "Persistance\\Persistance.csproj",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Persistance\\Persistance.csproj",
+              "RelativeToolTip": "Persistance\\Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T20:48:01.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Server\\appsettings.json",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\appsettings.json",
+              "RelativeToolTip": "..\\Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T13:14:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T13:14:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Client-Server.NotificationsExchange\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T20:15:52.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\All\\Client-Server SignalR\\Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Server\\appsettings.Development.json",
+              "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T13:14:29.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

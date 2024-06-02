@@ -1,0 +1,15 @@
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\bin\Debug\net8.0\Application.deps.json
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\bin\Debug\net8.0\Application.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\bin\Debug\net8.0\Application.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\bin\Debug\net8.0\Domain.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\bin\Debug\net8.0\Domain.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\refint\Application.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\Application.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Application\obj\Debug\net8.0\ref\Application.dll

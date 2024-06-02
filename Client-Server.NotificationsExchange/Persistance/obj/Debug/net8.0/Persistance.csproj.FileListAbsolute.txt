@@ -1,0 +1,17 @@
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.AssemblyInfoInputs.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.AssemblyInfo.cs
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.csproj.CoreCompileInputs.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.csproj.AssemblyReference.cache
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Persistance.deps.json
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Persistance.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Persistance.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Domain.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Domain.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persista.3F568332.Up2Date
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\refint\Persistance.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\ref\Persistance.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Application.dll
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Application.pdb

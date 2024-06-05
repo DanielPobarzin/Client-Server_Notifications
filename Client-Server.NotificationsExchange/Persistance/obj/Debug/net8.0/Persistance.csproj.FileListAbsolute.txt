@@ -15,3 +15,4 @@ C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj
 C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\ref\Persistance.dll
 C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Application.dll
 C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\bin\Debug\net8.0\Application.pdb
+C:\All\Client-Server SignalR\Client-Server.NotificationsExchange\Persistance\obj\Debug\net8.0\Persistance.sourcelink.json

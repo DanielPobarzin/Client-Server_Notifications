@@ -53,3 +53,5 @@ C:\All\Client-Server SignalR\Server\bin\Debug\net8.0\MediatR.dll
 C:\All\Client-Server SignalR\Server\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\All\Client-Server SignalR\Server\bin\Debug\net8.0\Application.dll
 C:\All\Client-Server SignalR\Server\bin\Debug\net8.0\Application.pdb
+C:\All\Client-Server SignalR\Server\obj\Debug\net8.0\Server.sourcelink.json
+C:\All\Client-Server SignalR\Server\bin\Debug\net8.0\Configuration\configure.json

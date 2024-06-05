@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Http.Connections;
+﻿using Client.Mappings;
+using Client.Data;
+using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.Extensions.Configuration;
 using Server;
+using System.Reflection;
 
 namespace Client
 {
@@ -14,8 +17,13 @@ namespace Client
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddSignalR();
-		}
+			services.AddAutoMapper(config =>
+			{
+				config.AddProfile(new AssemblyMappingProfile(Assembly.GetExecutingAssembly()));
+			});
 
+			services.AddEntityExchange(Configuration);
+		}
 		public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 		{
 			if (env.IsDevelopment())
@@ -26,8 +34,7 @@ namespace Client
 			app.UseRouting();
 			app.UseEndpoints(endpoints =>
 			{
-				//endpoints.MapControllers();
-				//endpoints.MapHub<NotificationHub>("/notificationhub");
+				endpoints.MapHub<NotificationsHub>("/notificationhub");
 			});
 		}
 	}

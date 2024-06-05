@@ -1,0 +1,39 @@
+{
+  "NotificationsHubSettings": {
+    "delayMilliseconds": 1000,
+    "serverId": "6142dfeb-00e3-43cb-a70f-f55ac8847757",
+    "useCompareLists": true,
+    "hubMethod": "ShowNotification",
+    "targetClients": "All"
+  },
+
+  "ServiceSettings": {
+    "KeepAliveInterval": "00:01:00",
+    "EnableDetailedErrors": true,
+    "CorsSettings": {
+      "PolicyName": "Security",
+      "AllowedHeaders": [ "*" ],
+      "AllowedMethods": [
+        "GET",
+        "POST",
+        "PUT"
+      ],
+      "AllowedOrigins": [
+        "http://localhost:22660",
+        "http://localhost:5196",
+        "https://localhost:7114"
+      ]
+    }
+  },
+
+  "TransportSettings": {
+    "useCorsName": "Security",
+    "endpoints": {
+      "route": "/notificationhub",
+      "transportMaxBufferSize": 128,
+      "transports": "WebSockets",
+      "closeTimeout": "00:00:10"
+    }
+  }
+}
+

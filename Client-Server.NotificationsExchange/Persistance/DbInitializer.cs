@@ -1,4 +1,4 @@
-﻿namespace Persistance
+﻿namespace WebAPI.Persistance
 {
 	public class DbInitializer
 	{

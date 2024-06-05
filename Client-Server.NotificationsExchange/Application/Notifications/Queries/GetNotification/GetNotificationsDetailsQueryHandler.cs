@@ -1,8 +1,8 @@
-﻿using Application.Common.Exceptions;
-using Application.Interfaces;
+﻿using WebAPI.Application.Common.Exceptions;
+using WebAPI.Application.Interfaces;
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
-using Domain;
+using WebAPI.Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Notifications.Queries.GetNotification
+namespace WebAPI.Application.Notifications.Queries.GetNotification
 {
     public class GetNotificationsDetailsQueryHandler : IRequestHandler<GetNotificationsDetailsQuery, NotificationDetailsVM>
     {
@@ -21,10 +21,10 @@ namespace Application.Notifications.Queries.GetNotification
 
         public async Task<NotificationDetailsVM> Handle(GetNotificationsDetailsQuery request, CancellationToken cancellationToken)
         {
-            var notificationsQuery = await _dbContext.notifications.FirstOrDefaultAsync(note => note.id == request.id, cancellationToken);
+            var notificationsQuery = await _dbContext.Notifications.FirstOrDefaultAsync(note => note.id == request.Id, cancellationToken);
 			if (notificationsQuery == null)
             {
-                throw new NotFoundException(nameof(Notification), request.id);
+                throw new NotFoundException(nameof(Notification), request.Id);
             }
             return _mapper.Map<NotificationDetailsVM>(notificationsQuery);
 		}

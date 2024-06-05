@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Notifications.Queries.GetNotification
+namespace WebAPI.Application.Notifications.Queries.GetNotification
 {
     public class GetNotificationsDetailsQuery : IRequest<NotificationDetailsVM>
     {
-        public Guid id { get; set; }
+        public Guid Id { get; set; }
     }
 }

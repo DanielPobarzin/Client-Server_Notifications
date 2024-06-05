@@ -1,4 +1,4 @@
-﻿using Application.Interfaces;
+﻿using WebAPI.Application.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistance
+namespace WebAPI.Persistance
 {
 	public static class DependencyInjection
 	{

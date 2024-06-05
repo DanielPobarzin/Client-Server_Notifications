@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Domain;
+using WebAPI.Domain;
 
-namespace Persistance
+namespace WebAPI.Persistance
 {
 	public class NotificationConfig : IEntityTypeConfiguration<Notification>
 	{

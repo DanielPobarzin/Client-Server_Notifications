@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Persistance;
+using Server.Data;
 
 namespace Server
 {
@@ -20,7 +20,7 @@ namespace Server
 				var serviceProvider = scope.ServiceProvider;
 				try
 				{
-					var context = serviceProvider.GetRequiredService<NotificationDbContext>();
+					var context = serviceProvider.GetRequiredService<ServerDbContext>();
 					DbInitializer.Initialize(context);
 				}
 				catch (Exception exception)

@@ -8,7 +8,7 @@ using MediatR;
 using System;
 using System.Reflection;
 
-namespace Application
+namespace WebAPI.Application
 {
 	public static class DependencyInjection
 	{

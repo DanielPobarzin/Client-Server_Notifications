@@ -88,8 +88,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\SentData\\notificationsOldData_f43a9789-35db-495d-b988-60a8e66609f4.json",
               "ViewState": "AQIAANEAAAAAAAAAAADgvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T08:22:57.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:22:57.319Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\SentData\\notificationsOldData_a43a9789-35db-495d-b988-60a8e66609f4.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwOAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T08:22:54.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:22:54.204Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "..\\Server\\Data\\AlarmsHub\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:05:42.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:05:42.204Z"
             },
             {
               "$type": "Document",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "..\\Server\\Data\\AlarmsHub\\INotificationsServerDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:04:16.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:04:16.896Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "..\\Server\\Models\\AlarmsModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:02:28.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:02:28.705Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "..\\Server\\Data\\AlarmsHub\\AlarmsDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:01:24.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:01:24.373Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "..\\Server\\Data\\AlarmsHub\\DbInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:54:45.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:54:45.643Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:47:32.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:47:32.487Z"
             },
             {
               "$type": "Document",
@@ -192,8 +184,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\DbInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:47:27.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:47:27.167Z"
             },
             {
               "$type": "Document",
@@ -205,8 +196,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\INotificationsServerDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:45:04.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:45:04.924Z"
             },
             {
               "$type": "Document",
@@ -218,8 +208,7 @@
               "RelativeToolTip": "..\\Server\\Data\\NotificationsHub\\NotificationsDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:44:57.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:44:57.658Z"
             },
             {
               "$type": "Document",
@@ -231,8 +220,7 @@
               "RelativeToolTip": "..\\Server\\Models\\ServerModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:44:27.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:44:27.151Z"
             },
             {
               "$type": "Document",
@@ -244,8 +232,7 @@
               "RelativeToolTip": "..\\Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:42:51.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:42:51.502Z"
             },
             {
               "$type": "Document",
@@ -257,8 +244,7 @@
               "RelativeToolTip": "..\\Server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T07:41:59.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:41:59.764Z"
             },
             {
               "$type": "Document",
@@ -270,8 +256,7 @@
               "RelativeToolTip": "..\\Server\\Configuration\\ServerSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:41:43.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:41:43.224Z"
             },
             {
               "$type": "Document",
@@ -283,8 +268,7 @@
               "RelativeToolTip": "..\\Server\\Startup.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:40:55.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:40:55.187Z"
             },
             {
               "$type": "Document",
@@ -296,8 +280,7 @@
               "RelativeToolTip": "..\\Server\\Configuration\\configure.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T07:28:31.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:28:31.819Z"
             },
             {
               "$type": "Document",
@@ -307,7 +290,7 @@
               "RelativeDocumentMoniker": "..\\Server\\Hubs\\NotificationHub.cs",
               "ToolTip": "C:\\All\\Client-Server SignalR\\Server\\Hubs\\NotificationHub.cs",
               "RelativeToolTip": "..\\Server\\Hubs\\NotificationHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T16:58:59.086Z",
               "EditorCaption": ""

@@ -2,14 +2,16 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
-using Server.Data;
+using Server.Hubs;
 using Microsoft.AspNetCore.SignalR;
 using Server.Configuration;
+using Server.Data.NotificationsHub;
+using Server.Data.AlarmsHub;
 
 
 namespace Server
 {
-	public class Startup
+    public class Startup
 	{
 		public IConfiguration Configuration { get; }
 		public Startup(IConfiguration configuration)
@@ -30,7 +32,8 @@ namespace Server
 					configure.KeepAliveInterval = serviceSettings.KeepAliveInterval;
 					configure.EnableDetailedErrors = serviceSettings.EnableDetailedErrors;
 				});
-			services.AddEntityExchange(Configuration);
+			services.AddEntityExchangeNotifications(Configuration);
+			//services.AddEntityExchangeAlarms(Configuration);
 			services.AddCors(options =>
 			{
 				var corsSettings = Configuration.GetSection("ServiceSettings:CorsSettings").Get<ServiceSettings>();
@@ -68,7 +71,7 @@ namespace Server
 							break;
 						case "LongPolling":
 							options.Transports = HttpTransportType.LongPolling;
-							options.LongPolling.PollTimeout = endpointSettings.CloseTimeout; ///?
+							options.LongPolling.PollTimeout = endpointSettings.CloseTimeout; ///
 							break;
 						case "ServerSentEvents":
 							options.Transports = HttpTransportType.ServerSentEvents;

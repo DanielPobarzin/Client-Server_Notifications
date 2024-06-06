@@ -1,11 +1,11 @@
 {
-  "DbConnection": "host=localhost;port=5432;Database=NotificationsExchange;Username=postgres;Password=19346jaidj",
+  "DbConnectionNotifications": "host=localhost;port=5432;Database=NotificationsExchange;Username=postgres;Password=19346jaidj",
   "NotificationsHubSettings": {
     "DelayMilliseconds": 1000,
     "ServerId": "6142dfeb-00e3-43cb-a70f-f55ac8847757",
     "UseCompareLists": true,
     "HubMethod": "ShowNotification",
-    "TargetClients": "Caller"
+    "TargetClients": "ContextClient"
   },
 
   "ServiceSettings": {

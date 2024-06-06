@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Server.Data;
+using Server.Data.NotificationsHub;
 
 namespace Server
 {
-	public class Program
+    public class Program
 	{
 		public static void Main(string[] args)
 		{
@@ -20,7 +20,7 @@ namespace Server
 				var serviceProvider = scope.ServiceProvider;
 				try
 				{
-					var context = serviceProvider.GetRequiredService<ServerDbContext>();
+					var context = serviceProvider.GetRequiredService<NotificationsDbContext>();
 					DbInitializer.Initialize(context);
 				}
 				catch (Exception exception)

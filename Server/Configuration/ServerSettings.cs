@@ -5,11 +5,11 @@ namespace Server.Configuration
 {
 	public class NotificationsHubSettings
 	{
-		[JsonPropertyName("DelayMilliseconds")]
+	    [JsonPropertyName("DelayMilliseconds")]
 		public int DelayMilliseconds { get; set; }
 		[JsonPropertyName("ServerId")]
 		public Guid ServerId { get; set; }
-		[JsonPropertyName("UseCompareLists")]
+	    [JsonPropertyName("UseCompareLists")]
 		public bool UseCompareLists { get; set; }
 		[JsonPropertyName("HubMethod")]
 		public string HubMethod { get; set; }
